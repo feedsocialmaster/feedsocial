@@ -1,0 +1,14 @@
+:root {
+    --rojo-feed: #E53935;
+    --naranja-feed: #FB8C00;
+    --negro-feed: #212121;
+    --gris-feed: #757575;
+    --blanco-feed: #FFFFFF;
+
+    /* Aplicaciones rápidas */
+    --color-principal: var(--rojo-feed);
+    --color-secundario: var(--naranja-feed);
+    --texto-principal: var(--negro-feed);
+    --texto-secundario: var(--gris-feed);
+    --fondo: var(--blanco-feed);
+}
